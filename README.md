@@ -1,6 +1,6 @@
 # Eagro-Launcher
 
-## シンプルで高速、様々なバージョンのEaglercraft
+## シンプルかつ、様々なバージョンのEaglercraft
 
 日本語かつ、様々なバージョンがプレイできるもの。無いなら作るしかないか。
 
@@ -16,5 +16,5 @@ Eaglercraft 1.9.4
 
 その他いくつか
 
-## Eaglercraftのアーカイブをしていたredditの人に感謝したいです。
+### Eaglercraftのアーカイブをしていたredditの人に感謝したいです。
 [redditの元スレ](https://www.reddit.com/r/eaglercraft/comments/1btl7w9/the_ultimate_eaglercraft_archive/)はここ
