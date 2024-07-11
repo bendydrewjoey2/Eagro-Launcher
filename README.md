@@ -16,5 +16,7 @@ Eaglercraft 1.9.4
 
 その他いくつか
 
+クラシック版とかも（見たことがないけど）日本語化して公開するべきだろうか。
+
 ### Eaglercraftのアーカイブをしていたredditの人に感謝したいです。
 [redditの元スレッド](https://www.reddit.com/r/eaglercraft/comments/1btl7w9/the_ultimate_eaglercraft_archive/)はここ
