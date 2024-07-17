@@ -2,7 +2,7 @@
 
 [EaglercraftL 1.9.4を起動](https://magurock.github.io/Eagro-Launcher/1.9/)
 
-[Eaglercraft 1.5.2に移動](https://magurock.github.io/Eagro-Launcher/1.5/)
+[Eaglercraft 1.5.2に移動](https://magurock.github.io/Eaglercraft-for-Japan/)
 
 [Eaglercraft 1.2.5を起動](https://magurock.github.io/Eagro-Launcher/1.2/)
 
