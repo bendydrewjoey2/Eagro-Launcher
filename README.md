@@ -2,11 +2,11 @@
 
 [EaglercraftL 1.9.4を起動](https://magurock.github.io/Eagro-Launcher/1.9/)
 
+[EaglercraftX 1.8.8を起動](https://magurock.github.io/Eagro-Launcher/1.8/)
+
 [Eaglercraft 1.5.2に移動](https://magurock.github.io/Eaglercraft-for-Japan/)
 
 [Eaglercraft 1.2.5を起動](https://magurock.github.io/Eagro-Launcher/1.2/)
-
-[Eaglercraft 1.8.8を起動](https://magurock.github.io/Eagro-Launcher/1.8/)
 
 [Resent Clientを起動（互換性注意）](https://magurock.github.io/Eagro-Launcher/RT/)
 
