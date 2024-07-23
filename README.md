@@ -6,7 +6,9 @@
 
 [Eaglercraft 1.2.5を起動](https://magurock.github.io/Eagro-Launcher/1.2/)
 
-[Resent Clientを起動（1.8.8）](https://magurock.github.io/Eagro-Launcher/RT/)
+[Eaglercraft 1.8.8を起動](https://magurock.github.io/Eagro-Launcher/1.8/)
+
+[Resent Clientを起動（互換性注意）](https://magurock.github.io/Eagro-Launcher/RT/)
 
 ## シンプルかつ、いくつかのバージョンのEaglercraft
 
