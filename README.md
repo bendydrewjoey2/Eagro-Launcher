@@ -2,6 +2,8 @@
 
 [EaglercraftL 1.9.4を起動](https://magurock.github.io/Eagro-Launcher/1.9/)
 
+↑[フォント修正リソパ](https://magurock.github.io/EaglerFontFix/)の使用をおすすめします
+
 [EaglercraftX 1.8.8を起動](https://magurock.github.io/Eagro-Launcher/1.8/)
 
 [Eaglercraft 1.5.2に移動](https://magurock.github.io/Eaglercraft-for-Japan/)
