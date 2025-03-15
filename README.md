@@ -24,7 +24,7 @@
 
 [Eaglercraft Infdevを起動](https://magurock.github.io/Eagro-Launcher/Inf/)
 
-[Eaglercraft Indevを起動](https://magurock.github.io/Eagro-Launcher/ind/)
+[Eaglercraft Indevを起動](https://magurock.github.io/Eagro-Launcher/Ind/)
 
 [Eaglercraft 1.12.2を起動](https://magurock.github.io/Eagro-Launcher/1.12/)
 
