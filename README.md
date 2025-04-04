@@ -1,4 +1,6 @@
-﻿# Eagro-Launcher
+﻿# Eagro Launcher
+
+[（おすすめ）Eaglercraft For Japanに移動](https://magurock.github.io/Eaglercraft-for-Japan/)
 
 [Starlike Client (非公式)を起動](https://magurock.github.io/Eagro-Launcher/SL/)
 
@@ -26,15 +28,17 @@
 
 [Eaglercraft Indevを起動](https://magurock.github.io/Eagro-Launcher/Ind/)
 
-[Eaglercraft 1.12.2を起動](https://magurock.github.io/Eagro-Launcher/1.12/)
+[Eaglercraft 1.12.2に移動](https://magurock.github.io/Eaglercraft-for-Japan/)
 
 [Eaglercraft 1.12.2 WASMを起動](https://magurock.github.io/Eagro-Launcher/1.12/wasm.html)
+
+[（おすすめ）Eaglercraft For Japanに移動](https://magurock.github.io/Eaglercraft-for-Japan/)
 
 Resent Client は公開を停止しました
 
 ## シンプルかつ、いくつかのバージョンのEaglercraft
 
-日本語に設定できて、いくつかのバージョンがプレイできるもの。無いなら作るしかないか。で作ってみました。
+だいたい日本語に設定できて、いくつかのバージョンがプレイできるもの。無いなら作るしかないか。で作ってみました。
 
 ### 今のところ予定しているもの
 
